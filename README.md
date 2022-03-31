@@ -1,2 +1,2 @@
-# projectindividu-progate.github.io
+# project-individu
 Digitalent FGA Front-End Developer 
